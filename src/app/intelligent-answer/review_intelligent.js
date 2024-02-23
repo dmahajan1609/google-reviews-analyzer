@@ -1,4 +1,4 @@
-import { OpenAI } from "langchain/llms/openai";
+import { OpenAI } from "@langchain/openai";
 import { loadSummarizationChain } from "langchain/chains";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import axios from "axios"
@@ -10,6 +10,7 @@ const getReviews = async (dataId, nextPageToken = null) => {
   try {
     const pagination = nextPageToken ? `&next_page_token=${nextPageToken}` : ''
     const { data } = await axios.get(`https://serpapi.com/search.json?data_id=${dataId}&engine=google_maps_reviews&hl=en&api_key=${SERPAPI_KEY}${pagination}`)
+    // console.log("Google reviews", data);
     return data
   } catch(e) {
     console.log("Error", e)
@@ -62,14 +63,21 @@ export const intelligentlyAnalyseReview = async (dataId) => {
     inputVariables: ["text"] 
   });
   
-  const model = new OpenAI({ model: "gpt-3.5-turbo-0613", temperature: 0.5 });
+  const model = new OpenAI({ temperature: 0.5 });
+  console.log("Reached here - 1");
   const textSplitter = new RecursiveCharacterTextSplitter({ chunkSize: 1000 });
   const docs = await textSplitter.createDocuments([text]);
+  console.log("Reached here - 2");
+
   
   // This convenience function creates a document chain prompted to summarize a set of documents.
   const chain = loadSummarizationChain(model, { type: "map_reduce", combinePrompt: prompt });
+  console.log("Chain", chain);
+  console.log("Reached here - 3");
+
   const res = await chain.call({
     input_documents: docs,
   });
+  console.log("response from chain.call()", res)
   return res
 };

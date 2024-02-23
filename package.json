@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@langchain/anthropic": "^0.0.10",
+    "@langchain/openai": "^0.0.14",
     "autoprefixer": "10.4.14",
     "axios": "^1.4.0",
     "downshift": "^7.6.0",
