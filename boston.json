@@ -1,0 +1,598 @@
+{
+    "search_metadata":{
+       "id":"65dca1da033e9464aad0dc38",
+       "status":"Success",
+       "json_endpoint":"https://serpapi.com/searches/071cca5853937d50/65dca1da033e9464aad0dc38.json",
+       "created_at":"2024-02-26 14:36:10 UTC",
+       "processed_at":"2024-02-26 14:36:10 UTC",
+       "google_maps_url":"https://www.google.com/maps/search/Fidelity+Investments+Branch/@42.3554334,-71.060511,12z?hl=en",
+       "raw_html_file":"https://serpapi.com/searches/071cca5853937d50/65dca1da033e9464aad0dc38.html",
+       "total_time_taken":4.77
+    },
+    "search_parameters":{
+       "engine":"google_maps",
+       "type":"search",
+       "q":"Fidelity Investments Branch",
+       "ll":"@42.3554334,-71.060511,12z",
+       "google_domain":"google.com",
+       "hl":"en"
+    },
+    "search_information":{
+       "local_results_state":"Results for exact spelling",
+       "query_displayed":"Fidelity Investments Branch"
+    },
+    "local_results":[
+       {
+          "position":1,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJo6HRVg5644kRJ1qKA4vxpWU",
+          "data_id":"0x89e37a0e56d1a1a3:0x65a5f18b038a5a27",
+          "data_cid":"7324525948350126631",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e37a0e56d1a1a3%3A0x65a5f18b038a5a27&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e37a0e56d1a1a3%3A0x65a5f18b038a5a27&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo6HRVg5644kRJ1qKA4vxpWU",
+          "provider_id":"/g/1vnrm0hw",
+          "rating":3.1,
+          "reviews":17,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"801 Boylston St, Boston, MA 02116",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 445-9448",
+          "website":"https://www.fidelity.com/branches/investor-center-boston-back-bay-boston-massachusetts-02116",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipN-3uC0oPOhnWPsh_2kc4d2mCawxpDNI40OqpMW=w122-h92-k-no"
+       },
+       {
+          "position":2,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJ18ef4YNw44kRGxSZppEwuRU",
+          "data_id":"0x89e37083e19fc7d7:0x15b93091a699141b",
+          "data_cid":"1565335747611399195",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e37083e19fc7d7%3A0x15b93091a699141b&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e37083e19fc7d7%3A0x15b93091a699141b&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ18ef4YNw44kRGxSZppEwuRU",
+          "provider_id":"/g/1td7jrlm",
+          "rating":2.7,
+          "reviews":15,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"155 Congress St, Boston, MA 02110",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 343-2140",
+          "website":"https://www.fidelity.com/branches/investor-center-boston-congress-street-boston-massachusetts-02110",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipMOS9WeffDuNy5kPHtmhSOJNjHSw-yOowW38oKv=w163-h92-k-no"
+       },
+       {
+          "position":3,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJE55q5aVw44kR8yhhNyJRydE",
+          "data_id":"0x89e370a5e56a9e13:0xd1c95122376128f3",
+          "data_cid":"15116702831645632755",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e370a5e56a9e13%3A0xd1c95122376128f3&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e370a5e56a9e13%3A0xd1c95122376128f3&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE55q5aVw44kR8yhhNyJRydE",
+          "provider_id":"/g/1tctmt5r",
+          "rating":4.2,
+          "reviews":12,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"200 Technology Square Suite 101, Cambridge, MA 02139",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 273-0130",
+          "website":"https://www.fidelity.com/branches/investor-center-cambridge-massachusetts-02142",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipP-Pj48BVUC-kynbYRBZsbnSfajaJQHta5A854j=w138-h92-k-no"
+       },
+       {
+          "position":4,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJVVWVYX9644kRWh5kPXafBoI",
+          "data_id":"0x89e37a7f61955555:0x82069f763d641e5a",
+          "data_cid":"9369351404975824474",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e37a7f61955555%3A0x82069f763d641e5a&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e37a7f61955555%3A0x82069f763d641e5a&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVWVYX9644kRWh5kPXafBoI",
+          "provider_id":"/g/11b7c8pzmb",
+          "rating":3.6,
+          "reviews":59,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"245 Summer Street, Boston, MA 02210",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 343-3548",
+          "website":"https://www.fidelity.com/customer-service/branches/overview",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipP2QsKG356kIFLVoEK1HCO0Fe79k0gFfpYtCM6Y=w122-h92-k-no"
+       },
+       {
+          "position":5,
+          "title":"Fidelity Investor Center in Chestnut Hill",
+          "place_id":"ChIJq6rqyZZ444kRYhCW0ovswqk",
+          "data_id":"0x89e37896c9eaaaab:0xa9c2ec8bd2961062",
+          "data_cid":"12232599623169347682",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e37896c9eaaaab%3A0xa9c2ec8bd2961062&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e37896c9eaaaab%3A0xa9c2ec8bd2961062&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6rqyZZ444kRYhCW0ovswqk",
+          "provider_id":"/g/11j8rd5_x5",
+          "rating":3.2,
+          "reviews":9,
+          "unclaimed_listing":true,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"220 Boylston St Suite C115, Chestnut Hill, MA 02467",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 343-3548",
+          "website":"https://www.fidelity.com/branches/investor-center-chestnut-hill-massachusetts-02467",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipMRQbUBDzukZrNT5E62Pr4dAkxu8VlKmix2gvot=w80-h106-k-no"
+       },
+       {
+          "position":6,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJH8cmGDKe44kRD1RYPXYkZZE",
+          "data_id":"0x89e39e321826c71f:0x916524763d58540f",
+          "data_cid":"10476820198401266703",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e39e321826c71f%3A0x916524763d58540f&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e39e321826c71f%3A0x916524763d58540f&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH8cmGDKe44kRD1RYPXYkZZE",
+          "provider_id":"/g/1tkf1_72",
+          "rating":3,
+          "reviews":17,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"44 Burlington Mall Road, Burlington, MA 01803",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 526-7172",
+          "website":"https://www.fidelity.com/branches/investor-center-burlington-massachusetts-01803",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipN--kDV8rqylm2YM16mONzIe_GtVVr8fHn-0P-s=w92-h92-k-no"
+       },
+       {
+          "position":7,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJ0Z_oQi6A5IkR1AxM9Usmhq8",
+          "data_id":"0x89e4802e42e89fd1:0xaf86264bf54c0cd4",
+          "data_cid":"12647838711196421332",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e4802e42e89fd1%3A0xaf86264bf54c0cd4&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e4802e42e89fd1%3A0xaf86264bf54c0cd4&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0Z_oQi6A5IkR1AxM9Usmhq8",
+          "provider_id":"/g/11b88y6gp9",
+          "rating":2.5,
+          "reviews":15,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"109 University Ave, Westwood, MA 02090",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 418-6192",
+          "website":"https://www.fidelity.com/branches/investor-center-westwood-massachusetts-02090",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipMiKMYyO_ypygtur0iNjaAIxsR_fXblfcuANK7u=w80-h108-k-no"
+       },
+       {
+          "position":8,
+          "title":"Fidelity Investments - Corporate Office",
+          "place_id":"ChIJRc4ep3hw44kRIP9ua9-fEgM",
+          "data_id":"0x89e37078a71ece45:0x3129fdf6b6eff20",
+          "data_cid":"221415113623535392",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e37078a71ece45%3A0x3129fdf6b6eff20&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e37078a71ece45%3A0x3129fdf6b6eff20&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRc4ep3hw44kRIP9ua9-fEgM",
+          "provider_id":"/g/11hc_3c6y5",
+          "rating":1,
+          "reviews":1,
+          "type":"Corporate office",
+          "types":[
+             "Array"
+          ],
+          "address":"155 Seaport Blvd, Boston, MA 02210",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 343-3548",
+          "website":"https://www.fidelity.com/customer-service/branches/overview",
+          "thumbnail":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cDx11d0WRMhHod05Vtm6dA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=120.15074&pitch=0&thumbfov=100"
+       },
+       {
+          "position":9,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJv9nWgc8T44kRUEIgCWTZj30",
+          "data_id":"0x89e313cf81d6d9bf:0x7d8fd96409204250",
+          "data_cid":"9047689200083681872",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e313cf81d6d9bf%3A0x7d8fd96409204250&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e313cf81d6d9bf%3A0x7d8fd96409204250&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv9nWgc8T44kRUEIgCWTZj30",
+          "provider_id":"/g/1ptxwcp14",
+          "rating":3.3,
+          "reviews":23,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"200 Endicott St, Danvers, MA 01923",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 418-6351",
+          "website":"https://www.fidelity.com/branches/investor-center-danvers-massachusetts-01923",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipMJ-K409f0OU-_wWJZcDfaWuOdCOfHHVw-oPU9x=w92-h92-k-no"
+       },
+       {
+          "position":10,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJS75l6ZqI44kRL1D7dXBy-BU",
+          "data_id":"0x89e3889ae965be4b:0x15f8727075fb502f",
+          "data_cid":"1583141096362037295",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e3889ae965be4b%3A0x15f8727075fb502f&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e3889ae965be4b%3A0x15f8727075fb502f&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS75l6ZqI44kRL1D7dXBy-BU",
+          "provider_id":"/g/1tg87nwl",
+          "rating":3.8,
+          "reviews":14,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"405 Cochituate Rd, Framingham, MA 01701",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 448-0570",
+          "website":"https://www.fidelity.com/branches/investor-center-framingham-massachusetts-01701",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipPLkPIgrPVi07gjRK5YShm4DE2T96Da9D6TpvL5=w122-h92-k-no"
+       },
+       {
+          "position":11,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJ3VD-ej5944kRLOjPmjZpDzg",
+          "data_id":"0x89e37d3e7afe50dd:0x380f69369acfe82c",
+          "data_cid":"4039563074021091372",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e37d3e7afe50dd%3A0x380f69369acfe82c&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e37d3e7afe50dd%3A0x380f69369acfe82c&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3VD-ej5944kRLOjPmjZpDzg",
+          "provider_id":"/g/1tjy2hxq",
+          "rating":3.8,
+          "reviews":12,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"50 Derby St Suite 100, Hingham, MA 02043",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 356-2854",
+          "website":"https://www.fidelity.com/branches/investor-center-hingham-massachusetts-02043",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipPbdwQdumFRvE50gpqABAK62vSI7iDETl0dD39r=w92-h92-k-no"
+       },
+       {
+          "position":12,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJJcDdrTUI5IkRdcFW2XMXrpI",
+          "data_id":"0x89e40835adddc025:0x92ae1773d956c175",
+          "data_cid":"10569411161820152181",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e40835adddc025%3A0x92ae1773d956c175&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e40835adddc025%3A0x92ae1773d956c175&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJcDdrTUI5IkRdcFW2XMXrpI",
+          "provider_id":"/g/1tgpz6jm",
+          "rating":3.6,
+          "reviews":19,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"551 Boston Turnpike Suite 40, Shrewsbury, MA 01545",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 521-3026",
+          "website":"https://www.fidelity.com/branches/investor-center-shrewsbury-massachusetts-1545",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipOHbTX8-QOKxbDvs5CoJ0MNNz846EURTo8BWDze=w122-h92-k-no"
+       },
+       {
+          "position":13,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJwQLPD3C644kR60TqS2wSUYI",
+          "data_id":"0x89e3ba700fcf02c1:0x8251126c4bea44eb",
+          "data_cid":"9390306954383607019",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e3ba700fcf02c1%3A0x8251126c4bea44eb&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e3ba700fcf02c1%3A0x8251126c4bea44eb&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwQLPD3C644kR60TqS2wSUYI",
+          "provider_id":"/g/1tqnmn9z",
+          "rating":4.1,
+          "reviews":20,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"225 Daniel Webster Hwy, Nashua, NH 03060",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 225-6452",
+          "website":"https://www.fidelity.com/branches/investor-center-nashua-new-hampshire-03060",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipMSOGPIymkDTqZKVQcVIc3K73hjDH_0cBPF0um4=w80-h106-k-no"
+       },
+       {
+          "position":14,
+          "title":"Fidelity Investments - Corporate Office",
+          "place_id":"ChIJi2CA2YZ644kR9ce1scvBsfE",
+          "data_id":"0x89e37a86d980608b:0xf1b1c1cbb1b5c7f5",
+          "data_cid":"17415914314622420981",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e37a86d980608b%3A0xf1b1c1cbb1b5c7f5&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e37a86d980608b%3A0xf1b1c1cbb1b5c7f5&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi2CA2YZ644kR9ce1scvBsfE",
+          "provider_id":"/g/1tmbx3ml",
+          "rating":1.3,
+          "reviews":28,
+          "type":"Corporate office",
+          "types":[
+             "Array"
+          ],
+          "address":"200 Seaport Blvd, Boston, MA 02210",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 343-3548",
+          "website":"https://www.fidelity.com/",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipMgnSPrkfLf90hYS7ltIesN7dT7GJmq2vz6dYas=w122-h92-k-no"
+       },
+       {
+          "position":15,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJh346mieX44kRkvgQqXWp3q4",
+          "data_id":"0x89e397279a3a7e87:0xaedea975a910f892",
+          "data_cid":"12600695130241955986",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e397279a3a7e87%3A0xaedea975a910f892&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e397279a3a7e87%3A0xaedea975a910f892&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJh346mieX44kRkvgQqXWp3q4",
+          "provider_id":"/g/11s1kbn6fj",
+          "rating":5,
+          "reviews":2,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"820 Constitution Ave, Littleton, MA 01460",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(833) 945-4261",
+          "website":"https://www.fidelity.com/branches/investor-center-littleton-massachusetts-01460",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipO9LDaiieZk5NM9dR6bmLucU5yAV3i1RhTJHag=w122-h92-k-no"
+       },
+       {
+          "position":16,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJ6VceCxFF5IkRZpv9RwwuhC0",
+          "data_id":"0x89e445110b1e57e9:0x2d842e0c47fd9b66",
+          "data_cid":"3279797058914851686",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e445110b1e57e9%3A0x2d842e0c47fd9b66&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e445110b1e57e9%3A0x2d842e0c47fd9b66&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6VceCxFF5IkRZpv9RwwuhC0",
+          "provider_id":"/g/1tj_67l7",
+          "rating":4.3,
+          "reviews":12,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"10 Memorial Blvd, Providence, RI 02903",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 742-1567",
+          "website":"https://www.fidelity.com/branches/investor-center-providence-rhode-island-02903",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipNC4QdqrrksK7FdP8QXp67oehKYJa99His6bshv=w122-h92-k-no"
+       },
+       {
+          "position":17,
+          "title":"Fidelity Investments - Corporate Office",
+          "place_id":"ChIJZ8ERyqJ744kRrnQzCt_tXTs",
+          "data_id":"0x89e37ba2ca11c167:0x3b5deddf0a3374ae",
+          "data_cid":"4277836763276473518",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e37ba2ca11c167%3A0x3b5deddf0a3374ae&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e37ba2ca11c167%3A0x3b5deddf0a3374ae&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ8ERyqJ744kRrnQzCt_tXTs",
+          "provider_id":"/g/11vlvnn3d3",
+          "type":"Corporate office",
+          "types":[
+             "Array"
+          ],
+          "address":"245 Summer Street, Boston, MA 02210",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 343-3548",
+          "website":"https://www.fidelity.com/customer-service/branches/overview",
+          "thumbnail":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Oy9Df8TDEpsOx_kUnELW4A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=221.43172&pitch=0&thumbfov=100"
+       },
+       {
+          "position":18,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJ6YSPgle_4okRPTVplbmrmpU",
+          "data_id":"0x89e2bf57828f84e9:0x959aabb99569353d",
+          "data_cid":"10780117471628703037",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e2bf57828f84e9%3A0x959aabb99569353d&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e2bf57828f84e9%3A0x959aabb99569353d&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6YSPgle_4okRPTVplbmrmpU",
+          "provider_id":"/g/11r4m0dqbv",
+          "rating":5,
+          "reviews":4,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"54 Maplewood Ave, Portsmouth, NH 03801",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(833) 613-2167",
+          "website":"https://www.fidelity.com/branches/investor-center-portsmouth-new-hampshire-03801",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipNQQqQHrLkFQQEYG4Ib-rjUbCC8UnCUEnwrZrLT=w92-h92-k-no"
+       },
+       {
+          "position":19,
+          "title":"Fidelity",
+          "place_id":"ChIJzUKTh_xA5IkRvnYRaEliy0U",
+          "data_id":"0x89e440fc879342cd:0x45cb6249681176be",
+          "data_cid":"5029221476307400382",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e440fc879342cd%3A0x45cb6249681176be&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e440fc879342cd%3A0x45cb6249681176be&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzUKTh_xA5IkRvnYRaEliy0U",
+          "provider_id":"/g/11bt_hcdkf",
+          "rating":4.7,
+          "reviews":18,
+          "unclaimed_listing":true,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"100 Salem St, Smithfield, RI 02917",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipP4SgKToWP_YJyiS4KzVQMnr0zhkTENNB_vaGqv=w122-h92-k-no"
+       },
+       {
+          "position":20,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJaT5ZSzq044kRNP1f72aKr8k",
+          "data_id":"0x89e3b43a4b593e69:0xc9af8a66ef5ffd34",
+          "data_cid":"14532986697255222580",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89e3b43a4b593e69%3A0xc9af8a66ef5ffd34&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89e3b43a4b593e69%3A0xc9af8a66ef5ffd34&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaT5ZSzq044kRNP1f72aKr8k",
+          "provider_id":"/g/1w15_g5l",
+          "rating":5,
+          "reviews":4,
+          "unclaimed_listing":true,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"2 Digital Dr, Merrimack, NH 03054",
+          "phone":"(603) 791-5000",
+          "website":"https://www.fidelity.com/",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipNU17evgx5gqk3kE9huijRxNAHJPDVvyWdxAg8y=w163-h92-k-no"
+       }
+    ],
+    "serpapi_pagination":{
+       "next":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4042.3554334%2C-71.060511%2C12z&q=Fidelity+Investments+Branch&start=20&type=search"
+    }
+ }

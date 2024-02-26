@@ -56,7 +56,7 @@ export const intelligentlyAnalyseReview = async (dataId) => {
     {text}
     
     ---
-    Create 10 most common labels for these reviews and give rating of 1 to 5 ⭐, with 1 ⭐ being the lowest rating and 5 ⭐ being the highest rating, it should be based on the occurrence rate, and if the label is negative as 👎 or positive as 👍.
+    Create 5 most common labels for these reviews and give rating of 1 to 5 ⭐, with 1 ⭐ being the lowest rating and 5 ⭐ being the highest rating, it should be based on the occurrence rate, and if the label is negative as 👎 or positive as 👍.
     Example:
     Label Name (positivity): ⭐ emoji
     `,

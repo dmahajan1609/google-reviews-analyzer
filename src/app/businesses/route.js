@@ -6,6 +6,7 @@ const getBusinesses = async (q, ll) => {
   try {
     const { data } = await axios
       .get(`https://serpapi.com/search?engine=google_maps&q=${q}&ll=${ll}&google_domain=google.com&hl=en&type=search&api_key=${SERPAPI_KEY}`)
+      console.log("businesses", data);
     return data
   } catch (e) {
     throw new Error("Failed to load businesses")

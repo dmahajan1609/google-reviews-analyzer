@@ -1,0 +1,613 @@
+{
+    "search_metadata":{
+       "id":"65dca6ccaef26471d9e852f8",
+       "status":"Success",
+       "json_endpoint":"https://serpapi.com/searches/300b58708dfbec9f/65dca6ccaef26471d9e852f8.json",
+       "created_at":"2024-02-26 14:57:16 UTC",
+       "processed_at":"2024-02-26 14:57:16 UTC",
+       "google_maps_url":"https://www.google.com/maps/search/Fidelity+Investments/@35.7803977,-78.6390989,12z?hl=en",
+       "raw_html_file":"https://serpapi.com/searches/300b58708dfbec9f/65dca6ccaef26471d9e852f8.html",
+       "total_time_taken":2.04
+    },
+    "search_parameters":{
+       "engine":"google_maps",
+       "type":"search",
+       "q":"Fidelity Investments",
+       "ll":"@35.7803977,-78.6390989,12z",
+       "google_domain":"google.com",
+       "hl":"en"
+    },
+    "search_information":{
+       "local_results_state":"Results for exact spelling",
+       "query_displayed":"Fidelity Investments"
+    },
+    "local_results":[
+       {
+          "position":1,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJt0JMjzTzrIkRpRh0S5OOB9U",
+          "data_id":"0x89acf3348f4c42b7:0xd5078e934b7418a5",
+          "data_cid":"15350394618192861349",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89acf3348f4c42b7%3A0xd5078e934b7418a5&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89acf3348f4c42b7%3A0xd5078e934b7418a5&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt0JMjzTzrIkRpRh0S5OOB9U",
+          "provider_id":"/g/11ckvff90z",
+          "rating":4.1,
+          "reviews":13,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"580 New Waverly Pl STE 240, Cary, NC 27518",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 814-5072",
+          "website":"https://www.fidelity.com/branches/investor-center-cary-north-carolina-27518",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipNLVQN5p6J3IL0OifdjUkx_x4_29VoXsSWW3btS=w204-h92-k-no"
+       },
+       {
+          "position":2,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJC6dF-iz3rIkR889rJM6CK2g",
+          "data_id":"0x89acf72cfa45a70b:0x682b82ce246bcff3",
+          "data_cid":"7506237025828982771",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89acf72cfa45a70b%3A0x682b82ce246bcff3&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89acf72cfa45a70b%3A0x682b82ce246bcff3&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC6dF-iz3rIkR889rJM6CK2g",
+          "provider_id":"/g/11snq08t7p",
+          "rating":3.7,
+          "reviews":11,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"4509 Creedmoor Rd Suite 101, Raleigh, NC 27612",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 532-5909",
+          "website":"https://www.fidelity.com/branches/investor-center-raleigh-north-carolina-27612",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipObW5FeakesS5DC3v4onlw5XpOJZf9ijQvSQEMk=w92-h92-k-no"
+       },
+       {
+          "position":3,
+          "title":"Fidelity Capital Management, Inc.",
+          "place_id":"ChIJX04MHwX2rIkRcHOjH8WI2M4",
+          "data_id":"0x89acf6051f0c4e5f:0xced888c51fa37370",
+          "data_cid":"14904813347003396976",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89acf6051f0c4e5f%3A0xced888c51fa37370&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89acf6051f0c4e5f%3A0xced888c51fa37370&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX04MHwX2rIkRcHOjH8WI2M4",
+          "provider_id":"/g/12hsg8c3j",
+          "type":"Financial planner",
+          "types":[
+             "Array"
+          ],
+          "address":"3101 Glenwood Ave Suite 103, Raleigh, NC 27612",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(919) 876-9610",
+          "website":"http://www.fidelitycapitalmanagement.com/",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipOYiObytC3kjCi9duuUcYVtxhEv-i9nINPYjy1-=w122-h92-k-no"
+       },
+       {
+          "position":4,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJwUgmE8jorIkR6rLZ2u40_eI",
+          "data_id":"0x89ace8c8132648c1:0xe2fd34eedad9b2ea",
+          "data_cid":"16356287622158070506",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89ace8c8132648c1%3A0xe2fd34eedad9b2ea&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89ace8c8132648c1%3A0xe2fd34eedad9b2ea&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwUgmE8jorIkR6rLZ2u40_eI",
+          "provider_id":"/g/1td4ff2t",
+          "rating":3.9,
+          "reviews":21,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"7011 Fayetteville Rd Suite 110, Durham, NC 27713",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 987-1404",
+          "website":"https://www.fidelity.com/branches/investor-center-durham-north-carolina-27713",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipPiJLy_aHGRBCbohpRn3MBE534W09We0LXh1mp5=w122-h92-k-no"
+       },
+       {
+          "position":5,
+          "title":"Fidelity Investments Operation Center",
+          "place_id":"ChIJTa7tyMfvrIkRPghc3laISYg",
+          "data_id":"0x89acefc7c8edae4d:0x88498856de5c083e",
+          "data_cid":"9820530369137215550",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89acefc7c8edae4d%3A0x88498856de5c083e&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89acefc7c8edae4d%3A0x88498856de5c083e&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTa7tyMfvrIkRPghc3laISYg",
+          "provider_id":"/g/11b86w2_0_",
+          "rating":4.3,
+          "reviews":6,
+          "unclaimed_listing":true,
+          "type":"Investment bank",
+          "types":[
+             "Array"
+          ],
+          "address":"35 Davis Dr, Morrisville, NC 27560",
+          "open_state":"Open ⋅ Closes 6 PM",
+          "hours":"Open ⋅ Closes 6 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(919) 991-0620",
+          "website":"https://www.fidelity.com/",
+          "thumbnail":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gLh00Oc99Abzmh7HqjHWAw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=329.31842&pitch=0&thumbfov=100"
+       },
+       {
+          "position":6,
+          "title":"Fidelity Investments - Corporate Office",
+          "place_id":"ChIJAQBAT4bxrIkRKC5ND27gI4c",
+          "data_id":"0x89acf1864f400001:0x8723e06e0f4d2e28",
+          "data_cid":"9737873582612885032",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89acf1864f400001%3A0x8723e06e0f4d2e28&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89acf1864f400001%3A0x8723e06e0f4d2e28&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAQBAT4bxrIkRKC5ND27gI4c",
+          "provider_id":"/g/11dft8478g",
+          "rating":4,
+          "reviews":2,
+          "type":"Corporate office",
+          "types":[
+             "Array"
+          ],
+          "address":"580 New Waverly Pl, Research Triangle Park, NC 27709",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 343-3548",
+          "website":"https://www.fidelity.com/customer-service/branches/overview",
+          "thumbnail":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ySX5QvQAERW6YKQL5S6tnA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=83.10371&pitch=0&thumbfov=100"
+       },
+       {
+          "position":7,
+          "title":"Fidelity Investments - Corporate Office",
+          "place_id":"ChIJndw_C8jvrIkRx-5nvA6lwWs",
+          "data_id":"0x89acefc80b3fdc9d:0x6bc1a50ebc67eec7",
+          "data_cid":"7764668715272498887",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89acefc80b3fdc9d%3A0x6bc1a50ebc67eec7&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89acefc80b3fdc9d%3A0x6bc1a50ebc67eec7&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJndw_C8jvrIkRx-5nvA6lwWs",
+          "provider_id":"/g/11cs3_kvb9",
+          "rating":4.6,
+          "reviews":138,
+          "type":"Corporate office",
+          "types":[
+             "Array"
+          ],
+          "address":"100 New Millennium Way, Durham, NC 27709",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 343-3548",
+          "website":"https://www.fidelity.com/customer-service/branches/overview",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipOR5Hc_LB4sAje0kOSDQJNEQMtKhgzO__Cjaw-K=w80-h106-k-no"
+       },
+       {
+          "position":8,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJVRNl41UZU4gRxoIu3JRB3uM",
+          "data_id":"0x88531955e3651355:0xe3de4194dc2e82c6",
+          "data_cid":"16419633399044408006",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x88531955e3651355%3A0xe3de4194dc2e82c6&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x88531955e3651355%3A0xe3de4194dc2e82c6&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVRNl41UZU4gRxoIu3JRB3uM",
+          "provider_id":"/g/1pv0wbt92",
+          "rating":3.9,
+          "reviews":11,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"609 Green Valley Rd, Greensboro, NC 27408",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 544-2141",
+          "website":"https://www.fidelity.com/branches/investor-center-greensboro-north-carolina-27408",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipN7UjVAeYIFdmO0ZFb39XDwQ651RhyTIc-1pzSg=w131-h92-k-no"
+       },
+       {
+          "position":9,
+          "title":"Fidelity Bank",
+          "place_id":"ChIJebj3mrX3rIkRYh8bwTFEcUw",
+          "data_id":"0x89acf7b59af7b879:0x4c714431c11b1f62",
+          "data_cid":"5508258799734693730",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89acf7b59af7b879%3A0x4c714431c11b1f62&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89acf7b59af7b879%3A0x4c714431c11b1f62&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJebj3mrX3rIkRYh8bwTFEcUw",
+          "provider_id":"/g/1tp1zpg_",
+          "rating":5,
+          "reviews":45,
+          "type":"Bank",
+          "types":[
+             "Array"
+          ],
+          "address":"5700 Creedmoor Rd, Raleigh, NC 27612",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(919) 789-9869",
+          "website":"https://www.fidelitybanknc.com/north-raleigh",
+          "service_options":[
+             "Object"
+          ],
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipMm37F-f6MyDDNXYPwwcPSpuI4I70l1CZ9-qNiU=w186-h92-k-no"
+       },
+       {
+          "position":10,
+          "title":"Fidelity Investments - By Appointment Only",
+          "place_id":"ChIJuVl-G9KxU4gR4E_xAxHxdKc",
+          "data_id":"0x8853b1d21b7e59b9:0xa774f11103f14fe0",
+          "data_cid":"12066534357015285728",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x8853b1d21b7e59b9%3A0xa774f11103f14fe0&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x8853b1d21b7e59b9%3A0xa774f11103f14fe0&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuVl-G9KxU4gR4E_xAxHxdKc",
+          "provider_id":"/g/11dyn9kczh",
+          "rating":4,
+          "reviews":9,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"380 Knollwood St Ste 740, Winston-Salem, NC 27103",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 409-6047",
+          "website":"https://www.fidelity.com/branches/investor-center-winston-salem-north-carolina-27103"
+       },
+       {
+          "position":11,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJ3wAaIi1usYkRZ26vDt-dnqU",
+          "data_id":"0x89b16e2d221a00df:0xa59e9ddf0eaf6e67",
+          "data_cid":"11934149643928039015",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89b16e2d221a00df%3A0xa59e9ddf0eaf6e67&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89b16e2d221a00df%3A0xa59e9ddf0eaf6e67&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3wAaIi1usYkRZ26vDt-dnqU",
+          "provider_id":"/g/11cjs3qm_d",
+          "rating":4.3,
+          "reviews":10,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"15521 Midlothian Tpke Suite 101, Midlothian, VA 23113",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 814-4807",
+          "website":"https://www.fidelity.com/branches/investor-center-richmond-south-virginia-23113",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipOR-tU8rbh4K8WxHWX6j149QqnM6p688QgSpVzY=w122-h92-k-no"
+       },
+       {
+          "position":12,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJl8lLWSGpVogRK3HWq0ixeRk",
+          "data_id":"0x8856a921594bc997:0x1979b148abd6712b",
+          "data_cid":"1835693248808907051",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x8856a921594bc997%3A0x1979b148abd6712b&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x8856a921594bc997%3A0x1979b148abd6712b&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl8lLWSGpVogRK3HWq0ixeRk",
+          "provider_id":"/g/11d_zplzrm",
+          "rating":3.9,
+          "reviews":18,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"16740 Birkdale Commons Pkwy #301, Huntersville, NC 28078",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 622-9980",
+          "website":"https://www.fidelity.com/branches/investor-center-huntersville-north-carolina-28078",
+          "thumbnail":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qmwiNXhfgFfWmpZXQnf7Bg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=107.92421&pitch=0&thumbfov=100"
+       },
+       {
+          "position":13,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJQ7LP9LwnVIgRTRr3qRyz84c",
+          "data_id":"0x885427bcf4cfb243:0x87f3b31ca9f71a4d",
+          "data_cid":"9796370550152960589",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x885427bcf4cfb243%3A0x87f3b31ca9f71a4d&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x885427bcf4cfb243%3A0x87f3b31ca9f71a4d&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ7LP9LwnVIgRTRr3qRyz84c",
+          "provider_id":"/g/11ll5zmmts",
+          "rating":4.8,
+          "reviews":4,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"5335 Ballantyne Commons Pkwy STE 100, Charlotte, NC 28277",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(833) 996-2279",
+          "website":"https://www.fidelity.com/branches/investor-center-ballantyne-charlotte-north-carolina-28277",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipMGU5vUG7QhSGYL6MFVoO-ljHa8sgTxv33XqIMT=w117-h92-k-no"
+       },
+       {
+          "position":14,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJu5tdeyWgVogRKcELCEkGx_g",
+          "data_id":"0x8856a0257b5d9bbb:0xf8c70649080bc129",
+          "data_cid":"17926303752508916009",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x8856a0257b5d9bbb%3A0xf8c70649080bc129&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x8856a0257b5d9bbb%3A0xf8c70649080bc129&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu5tdeyWgVogRKcELCEkGx_g",
+          "provider_id":"/g/1tdj4x_3",
+          "rating":3.4,
+          "reviews":36,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"4611 Sharon Rd #125, Charlotte, NC 28211",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 275-6799",
+          "website":"https://www.fidelity.com/branches/investor-center-charlotte-north-carolina-28211",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipM-EcvQ8J_SEGzVP_qcg0t6VGC1miZMcv7Z-keN=w92-h92-k-no"
+       },
+       {
+          "position":15,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJY3D-gY9qsYkRN4GfT7otkXk",
+          "data_id":"0x89b16a8f81fe7063:0x79912dba4f9f8137",
+          "data_cid":"8759833028435345719",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89b16a8f81fe7063%3A0x79912dba4f9f8137&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89b16a8f81fe7063%3A0x79912dba4f9f8137&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY3D-gY9qsYkRN4GfT7otkXk",
+          "provider_id":"/g/1tk6wsl6",
+          "rating":3.8,
+          "reviews":17,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"11114 W Broad St, Glen Allen, VA 23060",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 225-6449",
+          "website":"https://www.fidelity.com/branches/investor-center-richmond-glen-allen-virginia-23060",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipP2O6CQgfNpgHgips12BA6Yfy9EiojPP7YU6wkQ=w94-h92-k-no"
+       },
+       {
+          "position":16,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJ5S0iJe2VuokRU4hPwSvHF_M",
+          "data_id":"0x89ba95ed25222de5:0xf317c72bc14f8853",
+          "data_cid":"17516688266421569619",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89ba95ed25222de5%3A0xf317c72bc14f8853&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89ba95ed25222de5%3A0xf317c72bc14f8853&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5S0iJe2VuokRU4hPwSvHF_M",
+          "provider_id":"/g/11h8tzbw7f",
+          "rating":3.2,
+          "reviews":17,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"4500 Main St Suite 100, Virginia Beach, VA 23462",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 622-9089",
+          "website":"https://www.fidelity.com/branches/investor-center-virginia-beach-virginia-23462",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipNmrnkvNQ44XWl_RoDx2jWWzKo7ppNy5ruFJ8WK=w92-h92-k-no"
+       },
+       {
+          "position":17,
+          "title":"Fidelity Bank",
+          "place_id":"ChIJRRMXi6XzrIkRLueR9MJavYk",
+          "data_id":"0x89acf3a58b171345:0x89bd5ac2f491e72e",
+          "data_cid":"9925188947167799086",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89acf3a58b171345%3A0x89bd5ac2f491e72e&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89acf3a58b171345%3A0x89bd5ac2f491e72e&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRRMXi6XzrIkRLueR9MJavYk",
+          "provider_id":"/g/1txy36bq",
+          "rating":4.9,
+          "reviews":91,
+          "type":"Bank",
+          "types":[
+             "Array"
+          ],
+          "address":"100 W Chatham St, Cary, NC 27511",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(919) 467-0173",
+          "website":"https://www.fidelitybanknc.com/cary-main",
+          "service_options":[
+             "Object"
+          ],
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipOB6Z2T4QRUI1CG56kinV780H1xEGr78aDemf90=w122-h92-k-no"
+       },
+       {
+          "position":18,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJMXWINEt9WogRXPJrKrfhD2M",
+          "data_id":"0x885a7d4b34887531:0x630fe1b72a6bf25c",
+          "data_cid":"7138172111212507740",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x885a7d4b34887531%3A0x630fe1b72a6bf25c&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x885a7d4b34887531%3A0x630fe1b72a6bf25c&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMXWINEt9WogRXPJrKrfhD2M",
+          "provider_id":"/g/1th7nmcs",
+          "rating":3.6,
+          "reviews":20,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"3018 Peoples St #108, Johnson City, TN 37604",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 225-8044",
+          "website":"https://www.fidelity.com/branches/investor-center-johnson-city-tennessee-37604",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipNxWJNPPIZAy4FgatR5bSVGef1NRVKp-_4njobz=w92-h92-k-no"
+       },
+       {
+          "position":19,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJacs7a01x_ogRJLM1d8vFLdE",
+          "data_id":"0x88fe714d6b3bcb69:0xd12dc5cb7735b324",
+          "data_cid":"15072921005547959076",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x88fe714d6b3bcb69%3A0xd12dc5cb7735b324&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x88fe714d6b3bcb69%3A0xd12dc5cb7735b324&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJacs7a01x_ogRJLM1d8vFLdE",
+          "provider_id":"/g/11qp4d4ly7",
+          "rating":5,
+          "reviews":4,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"75 Port City Lndg Suite 410, Mt Pleasant, SC 29464",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(833) 996-2280",
+          "website":"https://www.fidelity.com/branches/investor-center-charleston-south-carolina-29464",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipOjlyNv-o88y-BWAwBX8FE3UOjjkT_sM_wbrYjR=w92-h92-k-no"
+       },
+       {
+          "position":20,
+          "title":"Fidelity Investments",
+          "place_id":"ChIJb7EQ9rm3t4kRjZvkJcV4hqE",
+          "data_id":"0x89b7b7b9f610b16f:0xa18678c525e49b8d",
+          "data_cid":"11639123075125255053",
+          "reviews_link":"https://serpapi.com/search.json?data_id=0x89b7b7b9f610b16f%3A0xa18678c525e49b8d&engine=google_maps_reviews&hl=en",
+          "photos_link":"https://serpapi.com/search.json?data_id=0x89b7b7b9f610b16f%3A0xa18678c525e49b8d&engine=google_maps_photos&hl=en",
+          "gps_coordinates":[
+             "Object"
+          ],
+          "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJb7EQ9rm3t4kRjZvkJcV4hqE",
+          "provider_id":"/g/1tfk59y1",
+          "rating":3.7,
+          "reviews":10,
+          "type":"Investment service",
+          "types":[
+             "Array"
+          ],
+          "address":"1900 K St NW Suite 110, Washington, DC 20006",
+          "open_state":"Open ⋅ Closes 5 PM",
+          "hours":"Open ⋅ Closes 5 PM",
+          "operating_hours":[
+             "Object"
+          ],
+          "phone":"(800) 854-2832",
+          "website":"https://www.fidelity.com/branches/investor-center-washington-district-of-columbia-20006",
+          "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipOKFkDzLe_cmFMwN-Z-vw23Rm-C55J_bkE5J4Z7=w80-h106-k-no"
+       }
+    ],
+    "serpapi_pagination":{
+       "next":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4035.7803977%2C-78.6390989%2C12z&q=Fidelity+Investments&start=20&type=search"
+    }
+ }
